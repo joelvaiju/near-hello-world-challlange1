@@ -1,0 +1,1 @@
+/home/cyrus/Desktop/test123/blockchain/near/showcode-near/near-hello-world-challlange1/contract/target/wasm32-unknown-unknown/debug/greeter.wasm: /home/cyrus/Desktop/test123/blockchain/near/showcode-near/near-hello-world-challlange1/contract/src/lib.rs
